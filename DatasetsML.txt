@@ -1,0 +1,3 @@
+http://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
+http://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features+
+http://archive.ics.uci.edu/ml/datasets/Bar+Crawl%3A+Detecting+Heavy+Drinking
